@@ -1,0 +1,12 @@
+.Header{
+    align-items: flex-end ;
+}
+
+.Header h1{
+    flex-grow: 1;
+}
+
+.Header h2{
+    font-size: 1.2rem;
+    color: gray;
+}
